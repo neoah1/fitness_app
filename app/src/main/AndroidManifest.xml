@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permission to access the internet, if needed for other functionalities -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- No specific permissions needed for SQLite database usage -->
+    <!-- If your app needs to access external storage, uncomment the following lines -->
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/> -->
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.YogaDemo"
+        tools:targetApi="31">
+        <activity
+            android:name=".WeightGraphView"
+            android:exported="false" />
+        <activity
+            android:name=".WeightGraphActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WeightTrackerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".BadgesActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".ThirdActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SixthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LegsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ExerciseDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LegsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FifthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BreakActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Splashscreenok"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

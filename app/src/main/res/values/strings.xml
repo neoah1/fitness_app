@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Yoga Demo</string>
+    <string name="back_button">Back</string>
+    <string name="Login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="add_weight">Add Weight</string>
+    <string name="enter_your_weight_kg">Enter your weight (kg)</string>
+
+    <string-array name="title_story">
+        <item>Build for Muscles</item>
+        <item>Replace with Matcha Green Tea</item>
+        <item>Keep Moving Forward</item>
+        <item>Stop Counting Calories</item>
+        <item>Master the Kettlebell</item>
+        <item>Find Your Flow with Yoga</item>
+        <item>Intensity Matters</item>
+        <item>Focus on Protein</item>
+        <item>Don\'t Skip Leg Day</item>
+        <item>Track Your Progress</item>
+        <item>Rest and Recovery</item>
+        <item>Progressive Overload is Key</item>
+        <item>Hydration is Vital</item>
+        <item>Balance Your Macros</item>
+        <item>Warm Up Properly</item>
+    </string-array>
+
+    <string-array name="details_story">
+        <item>Build for Muscles: Hypertrophy and progressive overload are the keys to building muscle. When you gradually increase the weight, frequency, or number of repetitions in your strength training routine, it challenges your body, allowing your musculoskeletal system to adapt and grow stronger. Focusing on compound movements such as squats, deadlifts, and presses is essential for overall growth.</item>
+        <item>Replace with Matcha Green Tea: Ditch the sugary energy drinks and go for matcha green tea instead. Matcha is rich in antioxidants and provides a steady source of energy without the jitters. It\'s also great for boosting metabolism, aiding in fat loss, and improving overall focus during workouts.</item>
+        <item>Keep Moving Forward: Physical fitness is all about consistency. Whether it\'s a full workout, a walk, or a quick stretch, make sure to stay active every day. Even on rest days, light activity keeps your muscles engaged and your metabolism running.</item>
+        <item>Stop Counting Calories: Rather than obsessing over every calorie, focus on the quality of your food. Choose whole, nutrient-dense foods like lean proteins, vegetables, fruits, and healthy fats. This will naturally help you regulate your calorie intake without the stress of constant counting.</item>
+        <item>Master the Kettlebell: Kettlebell training is a fantastic way to build functional strength, endurance, and flexibility. Kettlebells target multiple muscle groups in each movement, making them highly efficient. Plus, they improve your grip strength and core stability.</item>
+        <item>Find Your Flow with Yoga: Yoga helps improve flexibility, balance, and mental clarity. Incorporating it into your routine aids in muscle recovery, reduces stress, and improves your range of motion. Plus, it\'s a great way to build body awareness and focus on breathing.</item>
+        <item>Intensity Matters: Your results are directly tied to how hard you push yourself. Whether you\'re lifting weights, running, or doing yoga, always aim to push slightly beyond your comfort zone. That\'s where growth happens, physically and mentally.</item>
+        <item>Focus on Protein: Protein is the building block of muscle. After an intense workout, your muscles need protein to repair and grow. Aim for 1.2-2.0 grams of protein per kilogram of body weight, depending on your activity level. It\'s important to consume protein at every meal, especially post-workout.</item>
+        <item>Don\'t Skip Leg Day: Strong legs are the foundation of functional fitness. Your lower body contains some of the largest muscle groups, and training them improves your overall strength and stability. Squats, lunges, and deadlifts are crucial exercises to build lower body power.</item>
+        <item>Track Your Progress: Progress tracking is essential to stay motivated and see how far you\'ve come. Whether it\'s writing down your sets, reps, and weights in a notebook, using an app, or snapping progress photos, having a visual record of your journey can help push you further.</item>
+        <item>Rest and Recovery: Recovery is just as important as training. Without proper rest, your muscles can\'t grow, and you increase the risk of injury. Ensure you\'re getting enough sleep and consider active recovery days with light stretching, walking, or yoga to keep your body in top shape.</item>
+        <item>Progressive Overload is Key: Progressive overload is the gradual increase of stress placed on your muscles during training. It\'s one of the most effective ways to build strength and muscle mass. Each week, aim to increase your weight or repetitions in your strength training routine to continuously challenge your body.</item>
+        <item>Hydration is Vital: Staying hydrated is crucial for performance and recovery. Dehydration can lead to fatigue, cramps, and reduced endurance. Aim for at least 2-3 liters of water per day, and more if you\'re exercising intensely or in a hot climate.</item>
+        <item>Balance Your Macros: A balanced diet isn\'t just about calories; it\'s about the right mix of macronutrients – proteins, fats, and carbohydrates. Each plays a role in performance, recovery, and muscle building. Find a balance that works for your body, but ensure you\'re getting enough protein to support your goals.</item>
+        <item>Warm Up Properly: Warming up before exercise is non-negotiable. It increases blood flow to your muscles, improves flexibility, and prepares your body for the intensity of your workout. Start with dynamic stretches and light cardio to get your heart rate up before diving into the main workout.</item>
+    </string-array>
+
+
+</resources>
